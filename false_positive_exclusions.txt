@@ -14,9 +14,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -40,3 +40,4 @@ interpals
 mercadolivre
 opennet
 phpRU
+svidbook
