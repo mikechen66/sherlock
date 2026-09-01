@@ -9,20 +9,19 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-CyberDefenders
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -52,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
