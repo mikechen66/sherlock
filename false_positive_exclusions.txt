@@ -1,7 +1,6 @@
 7Cups
 APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -15,14 +14,18 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
