@@ -3,9 +3,10 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Bandcamp
+Blogger
 Championat
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -16,7 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -30,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 Trovo
 TryHackMe
