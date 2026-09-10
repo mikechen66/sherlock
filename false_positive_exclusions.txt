@@ -21,7 +21,6 @@ Instapaper
 Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -50,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
