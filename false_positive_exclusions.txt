@@ -4,9 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -34,6 +34,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
