@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -15,12 +16,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -52,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
