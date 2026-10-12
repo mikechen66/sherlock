@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -17,6 +16,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -46,6 +46,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+fl
 hunting
 interpals
 mercadolivre
