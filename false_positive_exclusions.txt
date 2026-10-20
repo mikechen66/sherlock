@@ -4,6 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -45,4 +46,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
