@@ -4,7 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+Blipfoto
 CGTrader
 Championat
 Chatujme.cz
@@ -31,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -39,6 +38,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
@@ -46,3 +46,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
