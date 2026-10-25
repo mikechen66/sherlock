@@ -4,24 +4,23 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Flipboard
 GaiaOnline
 GeeksforGeeks
+Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -47,3 +46,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
