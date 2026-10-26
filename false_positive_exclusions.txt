@@ -1,23 +1,22 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -46,4 +45,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
