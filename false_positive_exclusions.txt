@@ -1,10 +1,8 @@
-7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BoardGameGeek
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -12,11 +10,12 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitBook
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
