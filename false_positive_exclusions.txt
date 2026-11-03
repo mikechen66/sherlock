@@ -1,9 +1,7 @@
 APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -18,16 +16,17 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -42,4 +41,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
