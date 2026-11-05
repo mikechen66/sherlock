@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -18,6 +17,7 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -43,5 +43,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
-xHamster
