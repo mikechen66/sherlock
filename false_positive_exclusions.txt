@@ -14,6 +14,7 @@ Hashnode
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -22,7 +23,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
